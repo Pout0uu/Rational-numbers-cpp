@@ -10,3 +10,9 @@ Features:
 
 Example:
 1/2 + 3/4 = 5/4
+
+
+## Compile and Run
+
+g++ Rational-numbers.cpp -o rational
+
